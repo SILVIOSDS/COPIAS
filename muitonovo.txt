@@ -1,0 +1,13 @@
+ O volume na unidade D n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 58EE-4932
+
+ Pasta de D:\GIT-SILVIO-NOTEBOOK
+
+04/11/2020  22:06    <DIR>          .
+04/11/2020  22:06    <DIR>          ..
+04/11/2020  22:06                 0 muitonovo.txt
+04/11/2020  22:00                24 NOVO.TXT
+04/11/2020  21:02                 9 README.md
+04/11/2020  22:04                46 testesilvio.txt
+               4 arquivo(s)             79 bytes
+               2 pasta(s)   918.621.245.440 bytes dispon°veis
