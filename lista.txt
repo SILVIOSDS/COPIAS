@@ -1,0 +1,6 @@
+lista.tmp
+lista.txt
+NOVO.TXT
+README.md
+simplegit-progit/
+testesilvio.txt
